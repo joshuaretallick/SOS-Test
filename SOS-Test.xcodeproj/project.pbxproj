@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		10FACCE325B86AB600B62771 /* ButtonImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10FACCE225B86AB600B62771 /* ButtonImage.swift */; };
 		10FC43EA25B84B72006CFFE7 /* SOS_TestApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10FC43E925B84B72006CFFE7 /* SOS_TestApp.swift */; };
 		10FC43EC25B84B72006CFFE7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 10FC43EB25B84B72006CFFE7 /* ContentView.swift */; };
 		10FC43EE25B84B77006CFFE7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 10FC43ED25B84B77006CFFE7 /* Assets.xcassets */; };
@@ -33,6 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		10FACCE225B86AB600B62771 /* ButtonImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonImage.swift; sourceTree = "<group>"; };
 		10FC43E625B84B72006CFFE7 /* SOS-Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SOS-Test.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		10FC43E925B84B72006CFFE7 /* SOS_TestApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SOS_TestApp.swift; sourceTree = "<group>"; };
 		10FC43EB25B84B72006CFFE7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -97,6 +99,7 @@
 			children = (
 				10FC43E925B84B72006CFFE7 /* SOS_TestApp.swift */,
 				10FC43EB25B84B72006CFFE7 /* ContentView.swift */,
+				10FACCE225B86AB600B62771 /* ButtonImage.swift */,
 				10FC43ED25B84B77006CFFE7 /* Assets.xcassets */,
 				10FC43F225B84B77006CFFE7 /* Info.plist */,
 				10FC43EF25B84B77006CFFE7 /* Preview Content */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				10FC43EC25B84B72006CFFE7 /* ContentView.swift in Sources */,
+				10FACCE325B86AB600B62771 /* ButtonImage.swift in Sources */,
 				10FC43EA25B84B72006CFFE7 /* SOS_TestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
