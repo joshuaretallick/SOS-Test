@@ -22,8 +22,8 @@ struct SOS_TestApp: App {
 
 class AppDelegate: NSObject, UIApplicationDelegate {
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]? = nil) -> Bool {
-        GMSServices.provideAPIKey("AIzaSyCSgAeW2gZvnRmsBB7QBpjTUouHbSaHfj0")
-        GMSPlacesClient.provideAPIKey("AIzaSyCSgAeW2gZvnRmsBB7QBpjTUouHbSaHfj0")
+        GMSServices.provideAPIKey("AIzaSyBZ6vEoArw4zfEq5kAPnd-hH2_W5szErPE")
+        GMSPlacesClient.provideAPIKey("AIzaSyBZ6vEoArw4zfEq5kAPnd-hH2_W5szErPE")
         return true
     }
 }

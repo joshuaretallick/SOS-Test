@@ -13,6 +13,7 @@ struct MapView: View {
             GoogleMapsView()
                 .edgesIgnoringSafeArea(.top)
                 .frame(height: 300)
+            PlacesList()
         }
     }
 }
